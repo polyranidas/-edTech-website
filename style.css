@@ -7,3 +7,23 @@
 .trusted-img {
     width: 100px;
 }
+.feadback-section {
+    position: relative;
+}
+.feadback-section .fa-angle-left {
+    position: absolute;
+     left: 5px;
+     top: 120px;
+     color: blue;
+}
+.feadback-section .fa-angle-right {
+    position: absolute;
+     right: 5px;
+     top: 120px;
+     color: blue;
+}
+@media (min-width: 576px) { 
+    .course-section-flex {
+        flex-direction: column;
+    }
+ }
