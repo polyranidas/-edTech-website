@@ -4,6 +4,10 @@
     background-color: #F4FAFD;
     border-radius: 5px;
 }
+.working-section-text {
+    margin-left: 30px;
+}
+ 
 .trusted-img {
     width: 100px;
 }
@@ -22,8 +26,4 @@
      top: 120px;
      color: blue;
 }
-@media (min-width: 576px) { 
-    .course-section-flex {
-        flex-direction: column;
-    }
- }
+ 
